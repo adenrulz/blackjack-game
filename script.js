@@ -1,7 +1,7 @@
 
 let playerInfo = {
-    name : prompt("Please enter your name"),
-    chips: prompt("Please entet the chips you have")
+    name : "Aden", // for dynamic prompt("Please enter your name"),
+    chips: "123" //for dynamic prompt("Please enter the chips you have")
 }
 
 let cards = [];
